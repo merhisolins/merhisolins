@@ -4,9 +4,9 @@
 ---
 
 ### 🧠 Sobre mim
-Sou apaixonado por tecnologia e gosto de transformar ideias em projetos práticos.  
-Atualmente estou estudando **inteligência artificial**, **desenvolvimento de sistemas** e **simulação em Unity**.  
-Gosto de aprender de forma constante e me desafiar em novas áreas da computação.
+Tenho grande apreço por dados e gosto de transformar ideias em projetos práticos.  
+Atualmente estou estudando **inteligência artificial**, **desenvolvimento de sistemas** e **Estrutura de dados**.  
+Gosto de aprender mesmo quando a dificuldade bate na porta e me desafiar em novas áreas novas da computação.
 
 ---
 
