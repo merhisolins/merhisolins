@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou Merhi Osolins Daychoum</h1>
-<h3 align="center">Estudante de Ciência da Computação na UFRRJ | Focado em IA, Simulação e Engenharia de Software</h3>
+<h3 align="center">Estudante de Ciência da Computação na UFRRJ | Focado em Ciencia de Dados</h3>
 
 ---
 
