@@ -17,6 +17,7 @@ Gosto de aprender mesmo quando a dificuldade bate na porta e me desafiar em nova
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" height="35"/>
 </p>
 
 ---
