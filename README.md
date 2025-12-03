@@ -5,7 +5,7 @@
 
 ### 🧠 Sobre mim
 Tenho grande apreço por dados e gosto de transformar ideias em projetos práticos.  
-Atualmente estou estudando **inteligência artificial**, **desenvolvimento de sistemas** e **Estrutura de dados**.  
+Atualmente estou estudando **Redes Neurais** e **Computação Grafica**.  
 Gosto de aprender mesmo quando a dificuldade bate na porta e me desafiar em novas áreas novas da computação.
 
 ---
